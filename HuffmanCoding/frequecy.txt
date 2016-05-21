@@ -1,0 +1,157 @@
+10 : 4940  	
+34 : 1  	"
+32 : 48217  	 
+33 : 373  	!
+38 : 1  	&
+39 : 1202  	'
+40 : 64  	(
+41 : 63  	)
+46 : 3173  	.
+44 : 3032  	,
+45 : 308  	-
+51 : 10  	3
+50 : 10  	2
+49 : 37  	1
+48 : 11  	0
+54 : 1  		6
+52 : 1  		4
+59 : 442  	;
+58 : 32  	:
+57 : 40  	9
+63 : 452  	?
+62 : 20  	>
+60 : 20  	<
+68 : 303  	D
+69 : 700  	E
+70 : 261  	F
+71 : 310  	G
+65 : 853  	A
+66 : 382  	B
+67 : 377  	C
+76 : 429  	L
+77 : 382  	M
+78 : 390  	N
+79 : 726  	O
+72 : 1013  	H
+73 : 1214  	I
+74 : 19  	J
+75 : 200  	K
+85 : 136  	U
+84 : 1033  	T
+87 : 537  	W
+86 : 73  	V
+81 : 112  	Q
+80 : 347  	P
+83 : 514  	S
+82 : 499  	R
+93 : 112  	]
+89 : 240  	Y
+88 : 10  	X
+91 : 116  	[
+102 : 2502  	f
+103 : 2171  	g
+100 : 4895  	d
+101 : 14734  	e
+98 : 1568  	b
+99 : 2431  	c
+97 : 9323  	a
+110 : 8120  	n
+111 : 10849  	o
+108 : 5602  	l
+109 : 4005  	m
+106 : 101  	j
+107 : 1095  	k
+104 : 7843  	h
+105 : 7661  	i
+119 : 2647  	w
+118 : 1189  	v
+117 : 4307  	u
+116 : 11078  	t
+115 : 8129  	s
+114 : 7643  	r
+113 : 108  	q
+112 : 1782  	p
+122 : 72  	z
+121 : 3075  	y
+120 : 180  	x
+-----------------------------------------
+Ascii: 
+ 	code: 11001----code.length: 5
+Ascii:   	code: 01----code.length: 2
+Ascii: ! 	code: 110000001----code.length: 9
+Ascii: " 	code: 1111111111110111----code.length: 16
+Ascii: & 	code: 1111111111110110----code.length: 16
+Ascii: ' 	code: 1111010----code.length: 7
+Ascii: ( 	code: 11110011111----code.length: 11
+Ascii: ) 	code: 11111111110----code.length: 11
+Ascii: , 	code: 100101----code.length: 6
+Ascii: - 	code: 111100101----code.length: 9
+Ascii: . 	code: 100010----code.length: 6
+Ascii: 0 	code: 1111111111111----code.length: 13
+Ascii: 1 	code: 111100111001----code.length: 12
+Ascii: 2 	code: 11110011100001----code.length: 14
+Ascii: 3 	code: 11111111111100----code.length: 14
+Ascii: 4 	code: 1111111111110100----code.length: 16
+Ascii: 6 	code: 1111111111110101----code.length: 16
+Ascii: 9 	code: 110000100010----code.length: 12
+Ascii: : 	code: 111111111110----code.length: 12
+Ascii: ; 	code: 100001100----code.length: 9
+Ascii: < 	code: 1100001000110----code.length: 13
+Ascii: > 	code: 1100001000111----code.length: 13
+Ascii: ? 	code: 100000111----code.length: 9
+Ascii: A 	code: 10000111----code.length: 8
+Ascii: B 	code: 100011010----code.length: 9
+Ascii: C 	code: 110000000----code.length: 9
+Ascii: D 	code: 111100110----code.length: 9
+Ascii: E 	code: 11000011----code.length: 8
+Ascii: F 	code: 111111110----code.length: 9
+Ascii: G 	code: 111100100----code.length: 9
+Ascii: H 	code: 10000001----code.length: 8
+Ascii: I 	code: 1111000----code.length: 7
+Ascii: J 	code: 1111001110001----code.length: 13
+Ascii: K 	code: 1000110001----code.length: 10
+Ascii: L 	code: 100001101----code.length: 9
+Ascii: M 	code: 100011011----code.length: 9
+Ascii: N 	code: 100011001----code.length: 9
+Ascii: O 	code: 11000001----code.length: 8
+Ascii: P 	code: 110000101----code.length: 9
+Ascii: Q 	code: 10001100000----code.length: 11
+Ascii: R 	code: 100000101----code.length: 9
+Ascii: S 	code: 100000100----code.length: 9
+Ascii: T 	code: 10000000----code.length: 8
+Ascii: U 	code: 1111111110----code.length: 10
+Ascii: V 	code: 11110011101----code.length: 11
+Ascii: W 	code: 11111110----code.length: 8
+Ascii: X 	code: 11110011100000----code.length: 14
+Ascii: Y 	code: 1000001100----code.length: 10
+Ascii: [ 	code: 10000011010----code.length: 11
+Ascii: ] 	code: 10000011011----code.length: 11
+Ascii: a 	code: 1110----code.length: 4
+Ascii: b 	code: 1000111----code.length: 7
+Ascii: c 	code: 110101----code.length: 6
+Ascii: d 	code: 11011----code.length: 5
+Ascii: e 	code: 0011----code.length: 4
+Ascii: f 	code: 110100----code.length: 6
+Ascii: g 	code: 111110----code.length: 6
+Ascii: h 	code: 00011----code.length: 5
+Ascii: i 	code: 00100----code.length: 5
+Ascii: j 	code: 11000010000----code.length: 11
+Ascii: k 	code: 1111110----code.length: 7
+Ascii: l 	code: 10011----code.length: 5
+Ascii: m 	code: 000001----code.length: 6
+Ascii: n 	code: 00010----code.length: 5
+Ascii: o 	code: 1011----code.length: 4
+Ascii: p 	code: 1000010----code.length: 7
+Ascii: q 	code: 10001100001----code.length: 11
+Ascii: r 	code: 00101----code.length: 5
+Ascii: s 	code: 00001----code.length: 5
+Ascii: t 	code: 1010----code.length: 4
+Ascii: u 	code: 000000----code.length: 6
+Ascii: v 	code: 1111011----code.length: 7
+Ascii: w 	code: 110001----code.length: 6
+Ascii: x 	code: 1100001001----code.length: 10
+Ascii: y 	code: 100100----code.length: 6
+Ascii: z 	code: 11110011110----code.length: 11
+
+
+buffer === 1000010011011100100101110001000001101011100101111100110011001010000110001000101000110011000000000000001
